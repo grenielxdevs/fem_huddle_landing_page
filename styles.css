@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+/* General Styles 
+================================ */
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+/* Footer Styles 
+================================ */
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
